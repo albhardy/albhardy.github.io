@@ -1,7 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="tanutama.com/feed.xml" rel="self" type="application/atom+xml" /><link href="tanutama.com/" rel="alternate" type="text/html" /><updated>2018-02-21T19:35:15+08:00</updated><id>tanutama.com/</id><title type="html">+ Albert</title><subtitle>Designer, Improviser and Researcher. Bridging interaction gap between people and technology; Creating new possibilities. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="tanutama.com/feed.xml" rel="self" type="application/atom+xml" /><link href="tanutama.com/" rel="alternate" type="text/html" /><updated>2018-02-21T23:17:41+08:00</updated><id>tanutama.com/</id><title type="html">+ Albert</title><subtitle>Designer, Improviser and Researcher. Bridging interaction gap between people and technology; Creating new possibilities. 
 </subtitle><author><name>Albert Hardy</name></author><entry><title type="html">Jan Chipchase Field Research Masterclass</title><link href="tanutama.com/fieldnotes/2017/12/workshop-fieldresearch/" rel="alternate" type="text/html" title="Jan Chipchase Field Research Masterclass" /><published>2017-12-08T00:00:00+08:00</published><updated>2017-12-08T00:00:00+08:00</updated><id>tanutama.com/fieldnotes/2017/12/workshop-fieldresearch</id><content type="html" xml:base="tanutama.com/fieldnotes/2017/12/workshop-fieldresearch/">&lt;p&gt;Jan Chipchase gained his reputation as an extreme immersion researcher who specialise in identifying nuanced patterns of human behaviour from dense-urban to harsh, edge-of-grid locations.&lt;/p&gt;
 
 &lt;!--more--&gt;
+
+&lt;!-- https://stackoverflow.com/questions/29053280/jekyll-markup-appearing-in-p-tag --&gt;
+&lt;!-- include image-full.html file=&quot;cover.jpg&quot; alt=&quot;demo caption&quot; width=&quot;300px&quot;  --&gt;
+
+
+&lt;div class=&quot;BannerContainer&quot; style=&quot;height:600px&quot;&gt;
+&lt;div class=&quot;BannerImage BannerImage--background&quot; style=&quot;background-image: url('/assets/images/2017/12/field.jpg');&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    
 
 &lt;p&gt;After Nokia and Frog, he founded independent studio named after Deinococcus Radiodurans, an extremophilic bacteria that can survive acid, drought and even radiation where others can’t. The origins of its name are deino- (strange) -coccus (berry) radius- (radiation) -durare (surviving). The studio provides discreet international research, design and strategy services to multinational clients with global outlook. After 3 years of writing, he recently launched The Field Study Handbook on Kickstarter in May 2017 about his thesis on why and how to travel and to understand users, customers, people across markets, geographies and cultures.&lt;/p&gt;
 
@@ -34,7 +45,29 @@
 
 &lt;!--more--&gt;
 
+&lt;!-- https://stackoverflow.com/questions/29053280/jekyll-markup-appearing-in-p-tag --&gt;
+&lt;!-- include image-full.html file=&quot;cover.jpg&quot; alt=&quot;demo caption&quot; width=&quot;300px&quot;  --&gt;
+
+
+&lt;div class=&quot;BannerContainer&quot; style=&quot;height:400px&quot;&gt;
+&lt;div class=&quot;BannerImage BannerImage--background&quot; style=&quot;background-image: url('/assets/images/2017/8/save-board.jpg');&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    
+
 &lt;p&gt;Many exercises, activities and games use in applied improvisation are designed to encourage risk taking, playfulness, team building and to be in the moment. In this way, participants could challenge their existing mindset, develop their creative potential and overtime increase their confidence while having fun.&lt;/p&gt;
+
+&lt;!-- https://stackoverflow.com/questions/29053280/jekyll-markup-appearing-in-p-tag --&gt;
+&lt;!-- include image-full.html file=&quot;cover.jpg&quot; alt=&quot;demo caption&quot; width=&quot;300px&quot;  --&gt;
+
+
+&lt;div class=&quot;BannerContainer&quot; style=&quot;height:400px&quot;&gt;
+&lt;div class=&quot;BannerImage BannerImage--background&quot; style=&quot;background-image: url('/assets/images/2017/8/save-team.jpg');&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    
 
 &lt;p&gt;Belina highlighted the core practice of improvisation as described by Robert Poynton’s “Everything’s an Offer”: to let go (mindset or practices that not serving us at the moment), notice more (well being, others, and resources that we have) and use everything that comes - all done using “Yes, And” attitude in the service of change.  She designed the workshop for changemakers based following topics:
 Useful mindsets for the ‘inner game’ of creating change
@@ -71,23 +104,78 @@ Deep listening, acting on intuition, and using short turn taking as a way to nav
 
 &lt;!--more--&gt;
 
+&lt;!-- https://stackoverflow.com/questions/29053280/jekyll-markup-appearing-in-p-tag --&gt;
+&lt;!-- include image-full.html file=&quot;cover.jpg&quot; alt=&quot;demo caption&quot; width=&quot;300px&quot;  --&gt;
+
+
+&lt;div class=&quot;BannerContainer&quot; style=&quot;height:500px&quot;&gt;
+&lt;div class=&quot;BannerImage BannerImage--background&quot; style=&quot;background-image: url('/assets/images/2017/8/sot-group.jpg');&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    
+
 &lt;p&gt;As practitioners in Social Innovation sectors, they both believe that all change, big or small, starts with a conversation. Through this training, they help participants make sense of their own narratives, grow new capacity to response and build new possibilities by exploring different kind of conversations with self and others. It also aims to bring new awareness on relationship of body, emotion and language based on ontological coaching and organisational development frameworks.&lt;/p&gt;
 
 &lt;p&gt;In a larger context, this training is about inspiring participants to use more empathetic approach to address complex problems we face as a society and play a part in building Singapore’s social and emotional capital.&lt;/p&gt;</content><author><name>Albert Hardy</name></author><category term="workshop" /><summary type="html">Facilitated by Tong Yee and Shiao-Yin from The Thought Collective, this is an experiential learning to develop personal presence, build emotional agility and engage in more meaningful conversations.</summary></entry><entry><title type="html">Improv 101</title><link href="tanutama.com/fieldnotes/2017/06/workshop-improv101/" rel="alternate" type="text/html" title="Improv 101" /><published>2017-06-05T00:00:00+08:00</published><updated>2017-06-05T00:00:00+08:00</updated><id>tanutama.com/fieldnotes/2017/06/workshop-improv101</id><content type="html" xml:base="tanutama.com/fieldnotes/2017/06/workshop-improv101/">&lt;p&gt;Conducted by Hazel Ho and Kim Tan from the Improv Company, “Improv 101: Learning to Play” consists of 5 weekly 3-hour classes, covering the basics of improv theatre, getting right into the creative process with fellow improvisers / partners, engage audience and building an entire story / environment from nothing.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
+&lt;!-- https://stackoverflow.com/questions/29053280/jekyll-markup-appearing-in-p-tag --&gt;
+&lt;!-- include image-full.html file=&quot;cover.jpg&quot; alt=&quot;demo caption&quot; width=&quot;300px&quot;  --&gt;
+
+
+&lt;div class=&quot;BannerContainer&quot; style=&quot;height:400px&quot;&gt;
+&lt;div class=&quot;BannerImage BannerImage--background&quot; style=&quot;background-image: url('/assets/images/2017/6/improv-board.jpg');&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    
+
 &lt;p&gt;Improv or ‘improvised theatre’ is the form of theatre in which most or all of what is performed is unplanned or unscripted: created spontaneously by the performers, without use of prepared, written script. Nothing exists until it’s made real. The plot, characters and dialogue of the scenes are made up in the moment. The skills and processes of improvisation are increasingly applied outside the context of performing arts as a way to develop communication skills, creative problem solving, and teamwork.&lt;/p&gt;
 
 &lt;p&gt;Practicing improv is a great way to place humans at the centre, learn how to think on your feet, be flexible, work collaboratively with others–all practices critical to UX and design thinking process.&lt;/p&gt;
+
+&lt;!-- https://stackoverflow.com/questions/29053280/jekyll-markup-appearing-in-p-tag --&gt;
+&lt;!-- include image-full.html file=&quot;cover.jpg&quot; alt=&quot;demo caption&quot; width=&quot;300px&quot;  --&gt;
+
+
+&lt;div class=&quot;BannerContainer&quot; style=&quot;height:400px&quot;&gt;
+&lt;div class=&quot;BannerImage BannerImage--background&quot; style=&quot;background-image: url('/assets/images/2017/6/improv-trainer.jpg');&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    
 
 &lt;p&gt;Improv is about creating new reality with your partner. It’s about cooperating and building engaging experience with your partner and audience together. Players learn to work on undefined and unstructured world by accepting whatever being offered and building upon the ideas of others. It requires everyone to be paying attention to details and not to disregard premise, no matter how outrageous. It is also about actively discovering ideas quickly, embrace changes in order to learn and improve.  To achieve this, there are 3 fundamental ‘rules’ of Improv - “Yes, And”, “Make your partner looks good” and “Embrace failure”. They provides us with mindset, safe framework to the collaborate and embrace the unexpected.&lt;/p&gt;</content><author><name>Albert Hardy</name></author><category term="workshop" /><summary type="html">Conducted by Hazel Ho and Kim Tan from the Improv Company, “Improv 101: Learning to Play” consists of 5 weekly 3-hour classes, covering the basics of improv theatre, getting right into the creative process with fellow improvisers / partners, engage audience and building an entire story / environment from nothing.</summary></entry><entry><title type="html">Process Facilitation Workshop</title><link href="tanutama.com/fieldnotes/2017/05/workshop-processfacilitation/" rel="alternate" type="text/html" title="Process Facilitation Workshop" /><published>2017-05-09T00:00:00+08:00</published><updated>2017-05-09T00:00:00+08:00</updated><id>tanutama.com/fieldnotes/2017/05/workshop-processfacilitation</id><content type="html" xml:base="tanutama.com/fieldnotes/2017/05/workshop-processfacilitation/">&lt;p&gt;Facilitators help to fill an impartial role in enabling group become more effective and achieve positive outcomes. It’s an important and often underappreciated skill for UX designers to gain. Conducted by Ng Choon Seng, an IAF Certified Professional Facilitator, this workshop equipped participants with understanding, hands-on skills, tools and method to become an effective process facilitator.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
+&lt;!-- https://stackoverflow.com/questions/29053280/jekyll-markup-appearing-in-p-tag --&gt;
+&lt;!-- include image-full.html file=&quot;cover.jpg&quot; alt=&quot;demo caption&quot; width=&quot;300px&quot;  --&gt;
+
+
+&lt;div class=&quot;BannerContainer&quot; style=&quot;height:400px&quot;&gt;
+&lt;div class=&quot;BannerImage BannerImage--background&quot; style=&quot;background-image: url('/assets/images/2017/5/fac-training.jpg');&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    
+
 &lt;p&gt;The definition of facilitate is “to make easy” or “ease a process.” In the broadest sense, Facilitation is both art and science of making group’s work easier by structuring the process and guiding group members participation. It becomes especially important as organisation embraces Design Thinking, Co-creation and UX practices, where they open the design process not just users but to also a much wider range of stakeholders.&lt;/p&gt;
 
 &lt;p&gt;However ideas and outputs don’t just simply happen despite best intentions. Being a good facilitator isn’t the same as knowing how to manage people or run a meeting. It all comes down to understanding the tools–and structure–that help people collaborate. Designers need to become skilled communicators and facilitators, as they lead engagement initiatives with diverse group of stakeholders and bridge communication gaps in design process. A team that has a well-trained design facilitator can come to a drastically different outcome because they understand what it takes to create the right environment for good design to happen, and shape teams and clients towards shared understanding and successful outcomes.&lt;/p&gt;
+
+&lt;!-- https://stackoverflow.com/questions/29053280/jekyll-markup-appearing-in-p-tag --&gt;
+&lt;!-- include image-full.html file=&quot;cover.jpg&quot; alt=&quot;demo caption&quot; width=&quot;300px&quot;  --&gt;
+
+
+&lt;div class=&quot;BannerContainer&quot; style=&quot;height:400px&quot;&gt;
+&lt;div class=&quot;BannerImage BannerImage--background&quot; style=&quot;background-image: url('/assets/images/2017/5/fac-team.jpg');&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    
 
 &lt;p&gt;The workshop explained core facilitation practice such as active listening, ask questions and bring neutral stance to encourage participation, keep group on task/purpose and ensure that the group’s objectives and deliverables of the session are met. As such, facilitator must take care of:&lt;/p&gt;
 
@@ -100,7 +188,18 @@ Deep listening, acting on intuition, and using short turn taking as a way to nav
   &lt;li&gt;Space (physical and emotive)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;They must also be able to set aside their personal views, take a step back from bringing the detailed content, and focus purely on the “group process”. In this way, facilitator could bring shared understanding, get the best ideation from all members and bring the event toward successful decision, solution or conclusion. One reason facilitation is becoming an even more important job skill going forward is because organizations will need people who know how to harness all that diversity of thought and channel it productively. Finally, diverse workforces often need to be able to talk through issues of inclusion and bias, and those can be tough conversations. That’s all the more reason to train capable facilitators at every level of your company. Collaborating is never easy all the time–and it’s even harder when the issues and challenges you’re working on together create discomfort, anxiety, or fear. But those emotions aren’t going to vanish from the workplace anytime soon. So start practicing facilitation now, and you’ll future-proof your work culture for the more diverse, fast-moving world that’s heading our way.&lt;/p&gt;</content><author><name>Albert Hardy</name></author><category term="workshop" /><summary type="html">Facilitators help to fill an impartial role in enabling group become more effective and achieve positive outcomes. It’s an important and often underappreciated skill for UX designers to gain. Conducted by Ng Choon Seng, an IAF Certified Professional Facilitator, this workshop equipped participants with understanding, hands-on skills, tools and method to become an effective process facilitator.</summary></entry><entry><title type="html">Design Leadership - Identifying and Communicating the Value of Design</title><link href="tanutama.com/fieldnotes/2017/03/workshop-designleadership/" rel="alternate" type="text/html" title="Design Leadership - Identifying and Communicating the Value of Design" /><published>2017-03-10T00:00:00+08:00</published><updated>2017-03-10T00:00:00+08:00</updated><id>tanutama.com/fieldnotes/2017/03/workshop-designleadership</id><content type="html" xml:base="tanutama.com/fieldnotes/2017/03/workshop-designleadership/">&lt;p&gt;Demonstrating the value of design in business is key to positioning, growing investment, and getting design into the strategic activities of companies. Unfortunately many designers and creatives find it hard to expertly assess and put a value on design. This workshop by Robb Ziegler &amp;amp; Deb Mrazek aimed to help design practitioner with an approach to identify (assess) and effectively communicate (express) their design value, impact and contributions for business success.&lt;/p&gt;
+&lt;p&gt;They must also be able to set aside their personal views, take a step back from bringing the detailed content, and focus purely on the “group process”. In this way, facilitator could bring shared understanding, get the best ideation from all members and bring the event toward successful decision, solution or conclusion. As such, facilitation is considered to become an increasingly important skill for organizations in order to harness and leverage those ‘diversity of thought’ productively.&lt;/p&gt;</content><author><name>Albert Hardy</name></author><category term="workshop" /><summary type="html">Facilitators help to fill an impartial role in enabling group become more effective and achieve positive outcomes. It’s an important and often underappreciated skill for UX designers to gain. Conducted by Ng Choon Seng, an IAF Certified Professional Facilitator, this workshop equipped participants with understanding, hands-on skills, tools and method to become an effective process facilitator.</summary></entry><entry><title type="html">Design Leadership - Identifying and Communicating the Value of Design</title><link href="tanutama.com/fieldnotes/2017/03/workshop-designleadership/" rel="alternate" type="text/html" title="Design Leadership - Identifying and Communicating the Value of Design" /><published>2017-03-10T00:00:00+08:00</published><updated>2017-03-10T00:00:00+08:00</updated><id>tanutama.com/fieldnotes/2017/03/workshop-designleadership</id><content type="html" xml:base="tanutama.com/fieldnotes/2017/03/workshop-designleadership/">&lt;p&gt;Demonstrating the value of design in business is key to positioning, growing investment, and getting design into the strategic activities of companies. Unfortunately many designers and creatives find it hard to expertly assess and put a value on design. This workshop by Robb Ziegler &amp;amp; Deb Mrazek aimed to help design practitioner with an approach to identify (assess) and effectively communicate (express) their design value, impact and contributions for business success.&lt;/p&gt;
+
+&lt;!-- https://stackoverflow.com/questions/29053280/jekyll-markup-appearing-in-p-tag --&gt;
+&lt;!-- include image-full.html file=&quot;cover.jpg&quot; alt=&quot;demo caption&quot; width=&quot;300px&quot;  --&gt;
+
+
+&lt;div class=&quot;BannerContainer&quot; style=&quot;height:400px&quot;&gt;
+&lt;div class=&quot;BannerImage BannerImage--background&quot; style=&quot;background-image: url('/assets/images/2017/3/dv-group.jpg');&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    
 
 &lt;!--more--&gt;
 
@@ -161,11 +260,37 @@ Afterwards, we will need to derive value proposition that appeals to them (win-w
 
 &lt;h4 id=&quot;designs-pitch&quot;&gt;Design’s Pitch&lt;/h4&gt;
 
-&lt;p&gt;In this final step, we looked into ways to pitch and present design value metric system created for maximum impact. We developed 30-60-90 day plan which described activities such as inform and enlist stakeholders identified (data owners, key decision makers, partners and dependencies), implement metric visualisation to  communicate results (create compelling stories through numbers, graphic and infographics) and decide how to modify / refine the system further.&lt;/p&gt;</content><author><name>Albert Hardy</name></author><category term="workshop" /><summary type="html">Demonstrating the value of design in business is key to positioning, growing investment, and getting design into the strategic activities of companies. Unfortunately many designers and creatives find it hard to expertly assess and put a value on design. This workshop by Robb Ziegler &amp;amp; Deb Mrazek aimed to help design practitioner with an approach to identify (assess) and effectively communicate (express) their design value, impact and contributions for business success.</summary></entry><entry><title type="html">Nielsen Norman Group Singapore UX Conference</title><link href="tanutama.com/fieldnotes/2017/01/workshop-nng/" rel="alternate" type="text/html" title="Nielsen Norman Group Singapore UX Conference" /><published>2017-01-20T00:00:00+08:00</published><updated>2017-01-20T00:00:00+08:00</updated><id>tanutama.com/fieldnotes/2017/01/workshop-nng</id><content type="html" xml:base="tanutama.com/fieldnotes/2017/01/workshop-nng/">&lt;p&gt;This is 5 days of in-depth, full-day courses on broad range of design topics by NN/g expert trainers. Founded in 1998, Nielsen Norman Group has been one of leading organisation in the user experience field: conducting high-quality user experience research and provide interface design recommendations based on empirical evidence. During this conference, I attended UX Basic Training, Interaction Design, Human Mind and Usability and obtained UX Certification with Interaction Design Specialties.&lt;/p&gt;
+&lt;p&gt;In this final step, we looked into ways to pitch and present design value metric system created for maximum impact. We developed 30-60-90 day plan which described activities such as inform and enlist stakeholders identified (data owners, key decision makers, partners and dependencies), implement metric visualisation to  communicate results (create compelling stories through numbers, graphic and infographics) and decide how to modify / refine the system further.&lt;/p&gt;</content><author><name>Albert Hardy</name></author><category term="workshop" /><summary type="html">Demonstrating the value of design in business is key to positioning, growing investment, and getting design into the strategic activities of companies. Unfortunately many designers and creatives find it hard to expertly assess and put a value on design. This workshop by Robb Ziegler &amp;amp; Deb Mrazek aimed to help design practitioner with an approach to identify (assess) and effectively communicate (express) their design value, impact and contributions for business success.</summary></entry><entry><title type="html">Nielsen Norman Group Singapore UX Conference</title><link href="tanutama.com/fieldnotes/2017/01/workshop-nng/" rel="alternate" type="text/html" title="Nielsen Norman Group Singapore UX Conference" /><published>2017-01-20T00:00:00+08:00</published><updated>2017-01-20T00:00:00+08:00</updated><id>tanutama.com/fieldnotes/2017/01/workshop-nng</id><content type="html" xml:base="tanutama.com/fieldnotes/2017/01/workshop-nng/">&lt;!-- https://stackoverflow.com/questions/29053280/jekyll-markup-appearing-in-p-tag --&gt;
+&lt;!-- include image-full.html file=&quot;cover.jpg&quot; alt=&quot;demo caption&quot; width=&quot;300px&quot;  --&gt;
+
+&lt;/div&gt;&lt;!-- End of Wrapper --&gt;
+
+
+&lt;div class=&quot;BannerContainer&quot; style=&quot;height:500px&quot;&gt;
+&lt;div class=&quot;BannerImage BannerImage--background&quot; style=&quot;background-image: url('/assets/images/2017/1/nng-room.jpg');&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;wrapper&quot;&gt;
+    
+
+&lt;p&gt;This is 5 days of in-depth, full-day courses on broad range of design topics by NN/g expert trainers. Founded in 1998, Nielsen Norman Group has been one of leading organisation in the user experience field: conducting high-quality user experience research and provide interface design recommendations based on empirical evidence. During this conference, I attended UX Basic Training, Interaction Design, Human Mind and Usability and obtained UX Certification with Interaction Design Specialties.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;h3 id=&quot;ux-basic-training-by-garrett-goldfield&quot;&gt;UX Basic Training by Garrett Goldfield&lt;/h3&gt;
+
+&lt;!-- https://stackoverflow.com/questions/29053280/jekyll-markup-appearing-in-p-tag --&gt;
+&lt;!-- include image-full.html file=&quot;cover.jpg&quot; alt=&quot;demo caption&quot; width=&quot;300px&quot;  --&gt;
+
+
+&lt;div class=&quot;BannerContainer&quot; style=&quot;height:400px&quot;&gt;
+&lt;div class=&quot;BannerImage BannerImage--background&quot; style=&quot;background-image: url('/assets/images/2017/1/nng-garrett.jpg');&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    
 
 &lt;p&gt;Garrett delivered thorough overview of the user experience field and its many elements, such as foundations and principles of UX, incorporating UX activities at every stage of a project; establishing UX teams and roles as well as establishing user-centered organization maturity. He shared various methods to integrate users in design process such as Behavioral (what people do), Attitudinal (what people say), Empirical and Experience-based (guidelines, heuristic evaluation, etc.). He also highlighted important values of prototyping for organisation: to communicate, test, or impress. Another takeaway to address trendy new devices or visual design styles is to leverage human behavior and cognitive (e.g. Perception, Memory, Attention, Language processing) guidelines due to its durability and relevance.&lt;/p&gt;
 
@@ -173,17 +298,50 @@ Afterwards, we will need to derive value proposition that appeals to them (win-w
 
 &lt;h3 id=&quot;interaction-design-by-bruce-tog-tognazzini&quot;&gt;Interaction Design by Bruce “Tog” Tognazzini&lt;/h3&gt;
 
+&lt;!-- https://stackoverflow.com/questions/29053280/jekyll-markup-appearing-in-p-tag --&gt;
+&lt;!-- include image-full.html file=&quot;cover.jpg&quot; alt=&quot;demo caption&quot; width=&quot;300px&quot;  --&gt;
+
+
+&lt;div class=&quot;BannerContainer&quot; style=&quot;height:400px&quot;&gt;
+&lt;div class=&quot;BannerImage BannerImage--background&quot; style=&quot;background-image: url('/assets/images/2017/1/nng-bruce.jpg');&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    
+
 &lt;p&gt;Bruce is the third principal, along with Jakob Nielsen and Don Norman, at the Nielsen Norman Group. He previously founded the Apple Human Interface Group and played an important role in the direction of Apple’s product line from the early days of Apple into the 1990s. His 3-days course covered wide-range theoretical and practical applications of principles, processes, and techniques of Human-Computer Interaction (HCI).&lt;/p&gt;
 
 &lt;p&gt;He advised designers not only coming up with successful designs, but also to develop ability influence and “sell” them to engineering and management. He shared how to establish effective HCI organization structure, increase power and visibility of the group as well as engage in engineering process, methodology &amp;amp; strategy. He explained HCI Quality, Iterative Design Process and Fast Track methodology to reduce time-to-market, without creating chaos while speeding up the process.&lt;/p&gt;
 
 &lt;p&gt;What’s enlightening are his explanation on Norman’s Conceptual Model, Information Theory, Fitts’s Law and other scientific HCI underpinning for effective design. Tog highlighted the essence of Interaction Design is Human-to-Human transfer of information in which designer &amp;amp; users engage in a time-shifted conversation. However, such conversation and understanding (i.e. User Models) are often incomplete (users learn “just enough for now”) , unstable (people forget), insufficient firm boundaries (similar devices and operations leading to confusion), unscientific (interpretation often superstitious), and parsimonious (favored extra physical actions for reduced mental complexity). He then explained his Design Model Guideline to reflect user needs, rather than limitations of the hardware or the difficulty of the coding process.&lt;/p&gt;
 
+&lt;!-- https://stackoverflow.com/questions/29053280/jekyll-markup-appearing-in-p-tag --&gt;
+&lt;!-- include image-full.html file=&quot;cover.jpg&quot; alt=&quot;demo caption&quot; width=&quot;300px&quot;  --&gt;
+
+
+&lt;div class=&quot;BannerContainer&quot; style=&quot;height:740px&quot;&gt;
+&lt;div class=&quot;BannerImage BannerImage--background&quot; style=&quot;background-image: url('/assets/images/2017/1/nng-banner.jpg');&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    
+
 &lt;p&gt;I found Tog’s concept about “Designers as Builders of Illusions” where user experience is formed from an illusion we create, not riveted to the “reality” of the underlying system - memorable. Here, the objective is to achieve “Threshold of Believability” as the point at which careful design and  meticulous attention to detail have been sufficient in order to arouse in the spectator or user an conscious or unconscious belief that the illusion is real.&lt;/p&gt;
 
 &lt;p&gt;He cautioned against “Average User Syndrome” because such typical users don’t exist and I’m glad that he highlighted the “Great Usability-Testing Misconception” in which testing isn’t to see if you did a good job, but to help you do a good job.&lt;/p&gt;
 
 &lt;h3 id=&quot;the-human-mind-and-usability-by-raluca-budiu&quot;&gt;The Human Mind and Usability by Raluca Budiu&lt;/h3&gt;
+
+&lt;!-- https://stackoverflow.com/questions/29053280/jekyll-markup-appearing-in-p-tag --&gt;
+&lt;!-- include image-full.html file=&quot;cover.jpg&quot; alt=&quot;demo caption&quot; width=&quot;300px&quot;  --&gt;
+
+
+&lt;div class=&quot;BannerContainer&quot; style=&quot;height:400px&quot;&gt;
+&lt;div class=&quot;BannerImage BannerImage--background&quot; style=&quot;background-image: url('/assets/images/2017/1/nng-raluca.jpg');&quot;&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+    
 
 &lt;p&gt;Raluca presented her psychology concepts to help predict what people will do and explain why they do it. She demonstrated “False consensus effect” where we have tendency to overestimate how much other people share our own beliefs and behaviors. Fortunately, although behavior is strongly influenced by unconscious thought, it is often more predictable than we might expect. This can be achieved by understanding foundations of human cognition such as:&lt;/p&gt;
 
