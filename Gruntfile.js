@@ -281,8 +281,8 @@ module.exports = function(grunt) {
             dist: {
                 options: {
                     dir: '<%= app.dist %>/<%= app.baseurl %>',
-                    login:'albhardy',
-                    remote: 'https://github.com/albhardy/albhardy.github.io.git',
+                    login:'codeadoodle',
+                    remote: 'https://github.com/codeadoodle/codeadoodle.github.io.git',
                     remoteBranch:'master',
                     branch: 'master',
                     commit: true,
