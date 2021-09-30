@@ -1,6 +1,6 @@
-- title: Notes
-  url: /fieldnotes/
 - title: Projects
-  url: /projects/  
+  url: /projects/ 
+- title: Notes
+  url: /notes/
 - title: About
-  url: /about/  
+  url: /me/  
