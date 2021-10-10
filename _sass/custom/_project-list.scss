@@ -10,7 +10,7 @@ https://ricostacruz.com/til/#toc
   box-shadow: none;
   &:hover{
      text-decoration:none;
-      .project__title {
+      .project__title ~ a{
            text-decoration:underline;
       }
   }
