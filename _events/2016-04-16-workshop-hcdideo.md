@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Human Centered Design with IDEO"
+title: "Human Centered Design with Acumen and IDEO"
 date: 16-04-2016
 category: workshop
 excerpt_separator: <!--more-->

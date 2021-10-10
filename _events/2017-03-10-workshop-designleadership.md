@@ -1,16 +1,19 @@
 ---
 layout: event
-title: "Design Leadership - Identifying and Communicating the Value of Design"
+title: "Design Leadership with Robb Ziegler and Deb Mrazek"
 date: 10-03-2017
 category: workshop
 excerpt_separator: <!--more-->
 ---
 
-Demonstrating the value of design in business is key to positioning, growing investment, and getting design into the strategic activities of companies. Unfortunately many designers and creatives find it hard to expertly assess and put a value on design. This workshop by Robb Ziegler & Deb Mrazek aimed to help design practitioner with an approach to identify (assess) and effectively communicate (express) their design value, impact and contributions for business success. 
+Demonstrating the value of design in business is key to positioning, growing investment, and getting design into the strategic activities of companies. Unfortunately many designers and creatives find it hard to expertly assess and put a value on design. 
+
+<!--more-->
 
 {% include image-full.html file="/2017/3/dv-group.jpg" alt="Design Value Team" height="400px"%}
 
-<!--more-->
+This workshop by Robb Ziegler & Deb Mrazek provides design practitioner with an approach to identify (assess) and effectively communicate (express) their design value, impact and contributions for business success. 
+
 
 ### Evaluating Design Maturity
 
@@ -65,3 +68,5 @@ This step is about integrating analysis by working on the intersection of roles,
 #### Design’s Pitch
 
 In this final step, we looked into ways to pitch and present design value metric system created for maximum impact. We developed 30-60-90 day plan which described activities such as inform and enlist stakeholders identified (data owners, key decision makers, partners and dependencies), implement metric visualisation to  communicate results (create compelling stories through numbers, graphic and infographics) and decide how to modify / refine the system further. 
+
+Reference: [Methodology DESIGN LEADERSHIP with Robb Ziegler and Deb Mrazek](https://methodology.sg/design-leadership/)

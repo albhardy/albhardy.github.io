@@ -4,7 +4,7 @@ title: NEA Clean & Green Hackathon 2015
 image_path: 
 orderid: 12
 date: 2015-06-19
-blurb: 'Help make Singapore a truly clean city and "Zero Waste Nation" by creating solutions that enable behavioural or mindset change.'
+blurb: 'Introduce Gamified Reward System to help make Singapore a truly clean city and "Zero Waste Nation".'
 ---
 {% include image-full.html file="/2015/5/nea-1.jpg" alt="Group Photo" height="400px" type="full" %}
 <p class='sublead'>This is the fourth run of Clean &amp; Green Hackathon 2015 co-organised by UP Singapore and the National Environment Agency which saw about 150 participants taking part. The event focused on the themes of reducing litter at sporting and leisure events and neighbourhoods as well as reducing and recycling waste towards achieving Sustainable Singapore Blueprint 2015 target.</p>
@@ -26,3 +26,7 @@ Project Baggins was awarded Best Technology Prize.
 
 <iframe src="//player.vimeo.com/video/132393180?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p>Presentation Reel from <a href="http://www.upsingapore.com/events/clean-green-hackathon-2015/">UP Singapore</a>.</p>
+
+{% comment %}
+Help make Singapore a truly clean city and "Zero Waste Nation" by creating solutions that enable behavioural or mindset change.
+{% endcomment %}

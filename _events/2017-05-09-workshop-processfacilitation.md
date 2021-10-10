@@ -1,12 +1,14 @@
 ---
 layout: event
-title: "Process Facilitation Workshop"
+title: "Process Facilitation Workshop by Idialogue"
 date: 09-05-2017
 category: workshop
 excerpt_separator: <!--more-->
 ---
 
-Facilitators help to fill an impartial role in enabling group become more effective and achieve positive outcomes. It’s an important and often underappreciated skill for UX designers to gain. Conducted by Ng Choon Seng, an IAF Certified Professional Facilitator, this workshop equipped participants with understanding, hands-on skills, tools and method to become an effective process facilitator. 
+Facilitators provides impartial role in enabling group become more effective and achieve positive outcomes. It’s an important and often underappreciated skill for UX designers to have. 
+
+Conducted by Ng Choon Seng - one of the first in Singapore to be an International Association of Facilitators (IAF) Certified Professional Facilitator (CPF), this workshop equipped participants with understanding, hands-on skills, tools and method to become an effective process facilitator. 
 
 <!--more-->
 {% include image-full.html file="/2017/5/fac-training.jpg" alt="Facilitation Course" height="400px"%}
@@ -28,5 +30,5 @@ The workshop explained core facilitation practice such as active listening, ask 
 
 They must also be able to set aside their personal views, take a step back from bringing the detailed content, and focus purely on the “group process”. In this way, facilitator could bring shared understanding, get the best ideation from all members and bring the event toward successful decision, solution or conclusion. As such, facilitation is considered to become an increasingly important skill for organizations in order to harness and leverage those 'diversity of thought' productively. 
 
-
+Reference: [idialogue.sg](http://www.idialogue.sg/)
 

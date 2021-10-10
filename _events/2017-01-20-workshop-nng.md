@@ -8,7 +8,9 @@ excerpt_separator: <!--more-->
 
 {% include image-full.html file="/2017/1/nng-room.jpg" alt="Training Room" height="500px" type="full"%}
 
-This is 5 days of in-depth, full-day courses on broad range of design topics by NN/g expert trainers. Founded in 1998, Nielsen Norman Group has been one of leading organisation in the user experience field: conducting high-quality user experience research and provide interface design recommendations based on empirical evidence. During this conference, I attended UX Basic Training, Interaction Design, Human Mind and Usability and obtained UX Certification with Interaction Design Specialties. 
+This is 5 days of full-day courses on broad range of in-depth  design topics by NN/g expert trainers. 
+
+Founded in 1998, Nielsen Norman Group has been one of leading organisation in the user experience field: conducting high-quality user experience research and provide interface design recommendations based on empirical evidence. During this conference, I attended UX Basic Training, Interaction Design, Human Mind and Usability and obtained UX Certification with Interaction Design Specialties. 
 
 <!--more-->
 

@@ -4,11 +4,11 @@ title: MIT Hacking Medicine Robotics
 image_path: 
 orderid: 20
 date: 2017-02-10
-blurb: 'Explore robotics opportunities for eldercare in response to aging populations around the world.'
+blurb: 'Explore assistive robotics for eldercare in response to aging populations.'
 ---
 <p class='sublead'>MIT Hacking Medicine Robotics Singapore 2017 is Asia’s first hackathon to address unmet needs in elderly care and medicine and explore how robotics can play a role in aiding an aging society.</p>
 
-This year’s hackathon saw 83 participants, including clinicians, programmers and engineers, work on addressing a diverse range of eldercare challenges from fall prevention to dementia care. The hackathon was officiated by Minister for Foreign Affairs and Minister-In-Charge of the Smart Nation Initiative, Dr Vivian Balakrishnan.
+The hackathon saw 83 participants, including clinicians, programmers and engineers, work on addressing a diverse range of eldercare challenges from fall prevention to dementia care. The hackathon was officiated by Minister for Foreign Affairs and Minister-In-Charge of the Smart Nation Initiative, Dr Vivian Balakrishnan.
 <!--more-->
 
  {% include image-full.html file="/2017/1/mit-2.jpg" alt="demo caption" height="450px"%}

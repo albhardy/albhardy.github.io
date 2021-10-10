@@ -4,7 +4,7 @@ title: GeoHackathon 2014
 image_path: 
 orderid: 4
 date: 2014-06-06
-blurb: 'Use geospatial technologies to address urban systems, demographic and environmental challenges'
+blurb: 'Use geospatial technologies to improve NGO & VWO operations'
 ---
 <p class='sublead'>GeoHackathon was a competition organised by the Singapore Land Authority (SLA) in partnership with UP Singapore to explore new and innovative ways to use mapping and geospatial technology. </p>
 
@@ -32,3 +32,5 @@ Given their scale, FFTH relies on a custom logistics system to provide operation
 Our inspiration comes from understanding the need to address FFTH operational supply and demand fluctuation as well as the need to improve their operational scale and outreach. To achieve this objective, we proposed both web and mobile based application that provide operational visibility and automation for FFTH partners, beneficiaries and volunteers. 
 
 Besides highlighting location of key resources, our geospatial visualisation is also able to estimate outer edge of all possible travel routes from a start point to a given distance or time.
+
+<!-- Use geospatial technologies to coordinate and optimise VWO operational address urban systems, demographic and environmental challenges -->
