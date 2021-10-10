@@ -6,7 +6,7 @@ orderid: 14
 date: 2015-09-16
 blurb: 'Create new businesses that serve the needs of elders and their caregivers and help people live better '
 ---
-{% include image-full.html file="/2015/7/story-1.jpg" alt="demo caption" height="400px" type="full" %}
+{% include image-full.html file="/2015/7/story-1.JPG" alt="demo caption" height="400px" type="full" %}
 
 <p class='sublead'>Modern Aging is an ACCESS Health International and NUS Enterprise program to help create new business in Singapore that serve the needs of elders and their caregivers through education and mentoring program for innovators who want to start businesses for an aging population.</p>
 
@@ -27,4 +27,4 @@ StoryCard is about perpetuating life stories. We create new meaning and connecti
 
 In the future, we will look into the possibility of sharing and expanding our capability through licensing our design, methodology and toolkits. This allows more people engage in story writing activities with elderly and hence achieving our mission to reduce isolation and strengthen elderly bond with family and friends.
 
-{% include image-full.html file="/2015/7/story-2.jpg" alt="demo caption" height="500px"  %}
+{% include image-full.html file="/2015/7/story-2.JPG" alt="demo caption" height="500px"  %}

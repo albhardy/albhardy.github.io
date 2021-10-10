@@ -6,7 +6,7 @@ orderid: 9
 date: 2015-02-25
 blurb: 'Co-create solution to engage customers and bring “Joyful Banking”'
 ---
-{% include image-full.html file="/2015/2/dbs-1.jpg" alt="Group Discussion" height="400px" type="full"  %}
+{% include image-full.html file="/2015/2/dbs-1.JPG" alt="Group Discussion" height="400px" type="full"  %}
 <p class='sublead'>DBS Talent Conference Hackathon is the third DBS hackathon facilitated by data-challenge organiser, Ideatory and trainers from DBS to find new business opportunities or solve business challenges by applying Human-Centred Design or HCD.</p> 
 This includes mentorship by Top DBS executives including Chief Innovation Officer Neal Cross, Senior Vice President of Innovation Management David Beath, as well as the Head of Customer Journey Design in the bank Raju Nair.
 <!--more-->
@@ -19,9 +19,9 @@ Internet and mobile technology have transformed the way consumers made their pur
 ### Idea: Catalyst
 *Crowdsourcing ideas at every customer touch points - Engaging and building community through idea crowdsourcing platform*
 {% include image-full.html file="/2015/2/screenshots-app.png" alt="App Demo" height="350px" %}
-{% include image-full.html file="/2015/2/dbs-2.jpg" alt="Presentation" height="500px"  %}
+{% include image-full.html file="/2015/2/dbs-2.JPG" alt="Presentation" height="500px"  %}
 Our solution is to enhance existing Bank's customer engagement channels with an interactive ideas and feedback service that will recognize and reward participants. By leveraging gamification and crowdstorming concepts, we enable individual members of community to collectively solve relevant and meaningful problems. 
 
 ### Result
-{% include image-full.html file="/2015/2/dbs-3.jpg" alt="Winner" height="500px"  %}
+{% include image-full.html file="/2015/2/dbs-3.JPG" alt="Winner" height="500px"  %}
 In this project, we collaborated with experienced staffs representing Bank various centers and received hands-on mentorship on their Human Centered Design and Innovation process. We were selected as Challenge Winner, included as Top-4 finalists and awarded 3rd Prize. 

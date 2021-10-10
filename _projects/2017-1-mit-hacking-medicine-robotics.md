@@ -11,7 +11,7 @@ blurb: 'Explore assistive robotics for eldercare in response to aging population
 The hackathon saw 83 participants, including clinicians, programmers and engineers, work on addressing a diverse range of eldercare challenges from fall prevention to dementia care. The hackathon was officiated by Minister for Foreign Affairs and Minister-In-Charge of the Smart Nation Initiative, Dr Vivian Balakrishnan.
 <!--more-->
 
- {% include image-full.html file="/2017/1/mit-2.jpg" alt="demo caption" height="450px"%}
+ {% include image-full.html file="/2017/1/mit-2.JPG" alt="demo caption" height="450px"%}
 Singapore has one of the fastest ageing populations in the world. This has far-reaching implications as it places unprecedented demands on the provision of health care and ageing-related services as there are concerns with manpower shortages. The number of nursing homes is likely to grow to cater to the elderly who require residential care that cannot be given at home. Currently, about 50% of the nursing home residents are wheelchair bound and do not have the capability of moving around independently. As such, about 10% of staff time is spent moving residents around. This time could be better used to provide quality care, organize and running activities, and interact with the residents.
 
 ### Idea: Botler
