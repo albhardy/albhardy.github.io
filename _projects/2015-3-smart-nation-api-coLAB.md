@@ -4,7 +4,7 @@ title: Smart Nation API coLAB
 image_path: 
 orderid: 10
 date: 2015-03-15
-blurb: 'Hack out API-enabled applications to raise awareness and harness the power of APIs'
+blurb: 'Hack out API-enabled Smart Assistant to raise awareness and harness the power of Open Data'
 ---
 Smart Nation API coLAB organised by Padang & Co, Accenture and Intel Mashery brought together key members in the API economy: government, corporates, startups and hackers to share use cases and explore opportunities in a variety of themes such as Smart Living, Transport, Travel & Places, and Fintech & Commerce. The coLAB offered easy access to more than 150 curated APIs from government and businesses in Singapore through a series of learning and hands-on events. The event culminates in a API Hack Day where tech and data enthusiasts rapidly prototype and showcase their ‘hacks’.
 <!--more-->

@@ -4,7 +4,7 @@ title: Modern Aging 2015
 image_path: 
 orderid: 14
 date: 2015-09-16
-blurb: 'Create new businesses that serve the needs of elders and their caregivers and help people live better '
+blurb: "Conceptualise micro-journaling service to cherish elderly life stories and perpetuate their legacy"
 ---
 {% include image-full.html file="/2015/7/story-1.JPG" alt="demo caption" height="400px" type="full" %}
 
@@ -28,3 +28,7 @@ StoryCard is about perpetuating life stories. We create new meaning and connecti
 In the future, we will look into the possibility of sharing and expanding our capability through licensing our design, methodology and toolkits. This allows more people engage in story writing activities with elderly and hence achieving our mission to reduce isolation and strengthen elderly bond with family and friends.
 
 {% include image-full.html file="/2015/7/story-2.JPG" alt="demo caption" height="500px"  %}
+
+{% comment %}
+Create new businesses that serve the needs of elders and their caregivers and help people live better 
+{% endcomment %}

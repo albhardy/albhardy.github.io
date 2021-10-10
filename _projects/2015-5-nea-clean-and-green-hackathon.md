@@ -4,7 +4,7 @@ title: NEA Clean & Green Hackathon 2015
 image_path: 
 orderid: 12
 date: 2015-06-19
-blurb: 'Introduce Gamified Reward System to help make Singapore a truly clean city and "Zero Waste Nation".'
+blurb: 'Introduce Gamified Reward System to help make Singapore a truly clean city and "Zero Waste Nation" with Blockchain.'
 ---
 {% include image-full.html file="/2015/5/nea-1.jpg" alt="Group Photo" height="400px" type="full" %}
 <p class='sublead'>This is the fourth run of Clean &amp; Green Hackathon 2015 co-organised by UP Singapore and the National Environment Agency which saw about 150 participants taking part. The event focused on the themes of reducing litter at sporting and leisure events and neighbourhoods as well as reducing and recycling waste towards achieving Sustainable Singapore Blueprint 2015 target.</p>

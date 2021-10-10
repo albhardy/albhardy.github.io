@@ -4,7 +4,7 @@ title: Data Discovery Challenge
 image_path: 
 orderid: 8
 date: 2015-01-26
-blurb: 'Create Mashups for Driving Innovation and Enabling Smart Nation through Open Data'
+blurb: 'Create Journey Planning mashups for urban exploration and Trip Coordination using Open Data'
 ---
 <p class='sublead'>The Data Discovery Challenge is organised by IDA to support Singapore's vision to be the world’s first Smart Nation where data and analytics will play a critical role. The challenge seeks to encourage innovative mashup of public and private datasets to generate new value, enable smarter enterprises and improve how we live, work, learn and interact.</p>
 <!--more-->

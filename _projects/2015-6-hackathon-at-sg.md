@@ -4,7 +4,7 @@ title: Hackathon@SG 2015
 image_path: 
 orderid: 13
 date: 2015-07-25
-blurb: 'Improve Singapore urban environment and foster a greater sense of community spirit'
+blurb: 'Enable caring communities through relevant and timely match of volunteer request and participation'
 ---
 {% include image-full.html file="/2015/6/hack-1.JPG" alt="Competition" height="400px" type="full" %}
 <p class='sublead'>Hackathon@SG2015 was Singapore’s largest hackathon with more than 1,000 students, programmers, academia, designers and entrepreneurs ideate, code and co-create innovative solutions in areas such as City Planning, Public Services, Healthcare, Safety &amp; Security, Urban Mobility and Urban Living. </p>
@@ -28,3 +28,7 @@ Using SMS as Communication Platform, GrabHelp locates and connects those who nee
 
 <iframe  src="//www.youtube.com/embed/B1irTYPcD64?rel=0&amp;showinfo=0" frameborder="0"  width="640" height="360"  webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p>Highlight Reel from <a href="http://www.upsingapore.com/events/hackathonsg/">UP Singapore</a>.</p>
+
+{% comment %}
+Improve Singapore urban environment and foster a greater sense of community volunteerism and spirit
+{% endcomment %}
