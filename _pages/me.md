@@ -3,8 +3,14 @@ layout: page
 title: About Me
 permalink: /me/
 ---
+**Social Value Design and Product practitioner based in Singapore**. 
 
-User Experience Designer and Project Management Professional with 10+ years of combined experience across commercial and public sector. Expertise in Command and Control Systems, design thinking and rapid prototyping.
+Synthesize innovative ideas with pragmatic User Experience, technology feasibility and business model viability toward larger societal impacts. 
+
+Bring agility, integrative thinking and collaborative mindset to intuit trends, latent needs, and anticipate future.
+
+Proficient in design thinking, data visualisation and rapid prototyping.
+
 
 ## Accolades
 <!-- - FY2019 : **NEC APAC Innovation Award for Project ALLY**

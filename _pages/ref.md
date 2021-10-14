@@ -4,7 +4,7 @@ title: References
 permalink: /ref/
 ---
 
-This section highlights what others mentioned about projects or events of interests. 
+This section lists external readings, resources, or references from others that mentioned about projects or events I participated in. 
 
 # 2019
 - NEC: [Ministry of Movement and NEC to collaborate on future of urban mobility](https://www.nec.com/en/press/201910/global_20191016_02.html) 
