@@ -3,21 +3,21 @@ layout: page
 title: About Me
 permalink: /me/
 ---
-**Social Value Design and Product practitioner based in Singapore**. 
+<h2 class='sublead'> Social Value Design Practitioner based in Singapore </h2>
 
-Synthesize innovative ideas with pragmatic User Experience, technology feasibility and business model viability toward larger societal impacts. 
+Synthesize innovative ideas with pragmatic user experience, technology feasibility and business model viability toward larger societal impacts. 
 
 Bring agility, integrative thinking and collaborative mindset to intuit trends, latent needs, and anticipate future.
 
 Proficient in design thinking, data visualisation and rapid prototyping.
 
 
-## Accolades
+
+### Work related Recognitions
 <!-- - FY2019 : **NEC APAC Innovation Award for Project ALLY**
 - 1H FY2019 : **NEC APAC Innovation Award for Asian Transportation Society (Best Paper and Presentation Award)**
 - 1H FY2018 : **NEC Corporation Certificate of Achievements Award on Creation of Advanced Centre for Experimentation (ACE)**
 - 2H FY2017 : **NEC APAC Innovation Award for  Ministry of Home Affairs Multi-Analytics Integrated System Project** -->
-
 <div class="project__container">
     <div class="project__list">
        <div class="project__item">
@@ -39,19 +39,42 @@ Proficient in design thinking, data visualisation and rapid prototyping.
      </div>
 </div>
 
-## IPR
+### Patent Submission
 <div class="project__container">
     <div class="project__list">
        <a class="project__item" href="https://patents.google.com/patent/WO2020049981A1/">
-          <div class="project__date"><time datetime="">2018 [Filed]  </time></div>
-          <div class="project__title">An apparatus and a method for adaptively managing event-related data in a control room</div>
+          <div class="project__date"><time datetime="">2018 </time></div>
+          <div class="project__title">An apparatus and a method for adaptively managing event-related data in a control room  [Filed] </div>
        </a>
     </div>
 </div>
+{% comment %}{% endcomment %}
 
-## Notable workshops attended
+
+### Inspirational workshops
+
+These are list of courses and workshops that I found helpful for both professional and personal development.
 
 {% include about-events-list.html %}
 
 <div class="custom-divider"></div>
-You can also [search](/search) the site or read other [references](/ref).
+You can also [search](/search) the site or view chronological [external references](/ref) about projects that I was involved in.
+
+<style>.project__item {
+  
+    padding: 3px 20px;
+    
+}
+   .project__item .project__title, .project__item .project__date{
+      font-size:1.2rem;
+      margin:0;
+      font-family:"Roboto", sans-serif;
+   }
+    .project__item .project__title{
+       font-weight:600
+    }
+    .project__item .project__date{
+      font-size:1rem;
+     
+   }
+</style>
