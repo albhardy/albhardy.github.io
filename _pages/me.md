@@ -11,35 +11,35 @@ Bring agility, integrative thinking and collaborative mindset to intuit trends, 
 
 Proficient in design thinking, data visualisation and rapid prototyping.
 
+## Recognitions
+As member of R&D organisations, we put relentless pursuit of innovation. Following are notable initiatives that demonstrate our contributions toward Business and Social Value Creation Principles. 
 
-
-### Work related Recognitions
 <!-- - FY2019 : **NEC APAC Innovation Award for Project ALLY**
 - 1H FY2019 : **NEC APAC Innovation Award for Asian Transportation Society (Best Paper and Presentation Award)**
 - 1H FY2018 : **NEC Corporation Certificate of Achievements Award on Creation of Advanced Centre for Experimentation (ACE)**
 - 2H FY2017 : **NEC APAC Innovation Award for  Ministry of Home Affairs Multi-Analytics Integrated System Project** -->
-<div class="project__container">
+
+**Awards**
+<div class="project__container" style="margin-bottom:2rem">
     <div class="project__list">
        <div class="project__item">
-          <div class="project__date"><time datetime="">2H FY2019</time></div>
-          <div class="project__title">NEC APAC Innovation Award for Project ALLY</div>
-       </div>
-       <div class="project__item">
-          <div class="project__date"><time datetime="">1H FY2019</time></div>
+          <div class="project__date"><time datetime="">2019</time></div>
+          <div class="project__title">NEC APAC Innovation Award for Project Ally</div>
           <div class="project__title">NEC APAC Innovation Award for Asian Transportation Society Best Paper & Presentation</div>
        </div>
-        <div class="project__item">
-          <div class="project__date"><time datetime="">1H FY2018</time></div>
+      <div class="project__item">
+          <div class="project__date"><time datetime="">2018</time></div>
           <div class="project__title">NEC Corporation Certificate of Achievements Award on Creation of Advanced Centre for Experimentation (ACE)</div>
        </div>
        <div class="project__item">
-          <div class="project__date"><time datetime="">2H FY2017</time></div>
-          <div class="project__title">NEC APAC Innovation Award for  Ministry of Home Affairs Multi-Analytics Integrated System Project</div>
+          <div class="project__date"><time datetime="">2017</time></div>
+          <div class="project__title">NEC APAC Innovation Award for Ministry of Home Affairs Multi-Analytics Integrated System Project</div>
        </div>
      </div>
 </div>
+{% comment %}{% endcomment %}
 
-### Patent Submission
+**Patent Submission**
 <div class="project__container">
     <div class="project__list">
        <a class="project__item" href="https://patents.google.com/patent/WO2020049981A1/">
@@ -48,10 +48,9 @@ Proficient in design thinking, data visualisation and rapid prototyping.
        </a>
     </div>
 </div>
-{% comment %}{% endcomment %}
 
 
-### Inspirational workshops
+## Inspirational workshops
 
 These are list of courses and workshops that I found helpful for both professional and personal development.
 
@@ -60,21 +59,19 @@ These are list of courses and workshops that I found helpful for both profession
 <div class="custom-divider"></div>
 You can also [search](/search) the site or view chronological [external references](/ref) about projects that I was involved in.
 
-<style>.project__item {
-  
-    padding: 3px 20px;
-    
+<style>
+.project__item {
+   padding: 3px 20px;
 }
-   .project__item .project__title, .project__item .project__date{
-      font-size:1.2rem;
-      margin:0;
-      font-family:"Roboto", sans-serif;
-   }
-    .project__item .project__title{
-       font-weight:600
-    }
-    .project__item .project__date{
-      font-size:1rem;
-     
-   }
+.project__item .project__title, .project__item .project__date{
+   font-size:1.2rem;
+   margin:0;
+   font-family:"Roboto", sans-serif;
+}
+.project__item .project__title{
+   font-weight:600
+}
+.project__item .project__date{
+   font-size:1rem;
+}
 </style>
