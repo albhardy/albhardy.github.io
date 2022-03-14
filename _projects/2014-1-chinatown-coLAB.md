@@ -47,6 +47,8 @@ In addition, our app allows visitor to leave feedback (or token of appreciation)
 Our application was awarded "2nd Runner Up" prize. 
 
 
-<iframe src="//player.vimeo.com/video/93330438?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<iframe src="//player.vimeo.com/video/92914172?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="740" height="400" src="https://www.youtube-nocookie.com/embed/V_8ZhDB4aQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="740" height="400"  src="https://www.youtube.com/embed/SP6iHWacw4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p>Presentation and Highlight Reel from <a href="http://www.upsingapore.com/events/chinatown-colab/">UP Singapore</a>.</p>
