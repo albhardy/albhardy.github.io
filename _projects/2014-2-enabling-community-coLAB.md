@@ -36,5 +36,6 @@ In order to empower them, we would like to improve typing user experience on sma
 {% include image-full.html file="/2014/2/enable-4.jpg" alt="Final Group Photo" height="500px"  %}
 We are encouraged with support and feedback given by mentors from SGEnable, Social Enterprise Singapore, as well as Singapore Society of Physically Disabled. Our idea was shortlisted as the Top 10 finalists and received Seed award to further refine and validate our proposed solution.
 
-<iframe src="//player.vimeo.com/video/97495834?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="740" height="400" src="https://www.youtube.com/embed/G23YWT8FkVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p>Highlight Reel from <a href="http://www.upsingapore.com/events/enabling-community-colab/">UP Singapore</a>.</p>

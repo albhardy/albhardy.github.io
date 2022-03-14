@@ -47,6 +47,8 @@ With guidance from Subject Matter Expert from MPA and PSA, we presented our idea
 
 Our interactive dashboard was awarded "Honourable mention" prize.
 
-<iframe src="//player.vimeo.com/video/101695032?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<iframe src="//player.vimeo.com/video/105639645?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="740" height="400" src="https://www.youtube.com/embed/nv7mGWkocuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="740" height="400" src="https://www.youtube.com/embed/juYVnKrfYrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p>Presentation and Highlight Reel from <a href="http://www.upsingapore.com/events/smart-port-hackathon-2014/">UP Singapore</a>.</p>

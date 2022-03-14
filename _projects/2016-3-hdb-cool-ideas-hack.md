@@ -13,7 +13,9 @@ HDB, which provides homes for over 80% of Singaporeans is pivotal in realising S
 
 A total of 206 participants from student, start-up and open categories took part in the three-day events at HDB Hub.
 
-<iframe src="//player.vimeo.com/video/180260004?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="740" height="400" src="https://www.youtube.com/embed/eKczqIu3E5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <p>Highlight Reel from <a href="http://www.upsingapore.com/events/hdb-cool-ideas-hack/">UP Singapore</a>.</p>
 
 {% include image-full.html file="/2016/3/hdb-1.JPG" alt="demo caption" height="500px" %}

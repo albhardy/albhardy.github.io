@@ -19,7 +19,8 @@ The hackathon aims to spark ideas to build a robust social marketplace and accel
 
 Many Social Organisations lack the ability and knowledge to effectively engage their volunteers and to retain them. This has an impact on the efficiency of the organisation, ultimately limiting the number of people it can help. We proposed GrabHelp for Social Organisations to provide self-help automation for their volunteers activities.
 
-<iframe src="//player.vimeo.com/video/161571016?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="740" height="400" src="https://www.youtube.com/embed/JUb-s3zLfKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p>Highlight Reel from <a href="http://www.upsingapore.com/events/social-innovators-hack/">UP Singapore</a>.</p>
 
 {% comment %}
