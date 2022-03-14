@@ -3,9 +3,9 @@ layout: page
 title: About Me
 permalink: /me/
 ---
-<h2 class='sublead'> Social Value Design Practitioner based in Singapore </h2>
+<!-- <h2 class='sublead'> Social Value Design Practitioner </h2> -->
 
-Synthesize innovative ideas with pragmatic user experience, technology feasibility and business model viability toward larger societal impacts. 
+I help craft and bootstrap ideas with pragmatic user experience, technology feasibility and business model viability toward larger societal impacts. 
 
 Bring agility, integrative thinking and collaborative mindset to intuit trends, latent needs, and anticipate future.
 
