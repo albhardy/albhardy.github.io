@@ -6,7 +6,8 @@
 
 To set up your environment to develop this theme, run `script/bootstrap`.
 
-To test your theme, run `script/server` (or `bundle exec jekyll serve`) and open your browser at `http://localhost:4000`. 
+To test your theme, run `script/server` (or `bundle exec jekyll serve -l -o`) and open your browser at `http://localhost:4000`. 
+
 
 ## Deployment
 
