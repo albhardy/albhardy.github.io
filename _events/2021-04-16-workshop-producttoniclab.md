@@ -10,7 +10,11 @@ excerpt_separator: <!--more-->
 <!--more-->
 **Product Tonic Lab (PTL)** is a 6-month, interactive online-based program that focuses on developing product leadership in Southeast Asia through experiential learning. 
 
-The program was developed by the Product Tonic Community leaders for the community - grounded on their observations over 100 meetups, 2 retreats and 3 unconferences in Southeast Asia. Rather than theoretical content, this program focuses on coaching/mentoring and walks with participant the journey to becoming a product leader. It is designed for senior product managers, product designers and software engineers who want to develop their leadership style, advance in their career and build more impactful products. 
+The program was developed by the Product Tonic Community leaders for senior product managers, product designers and software engineers who want to develop their leadership style, advance in their career and build more impactful products .
+
+Rather than theoretical content, this program approaches learning through experience and facilitated dialogues instead of passive consumption of the program’s content. Participant are invited to co-build a safe space to discuss macro issues around emerging topics and practices (e.g. climate, education, ethics and sustainability) in product development. It also focuses on coaching/mentoring and walks with participant the journey to becoming a product leader.
+
+It has been privilege and enriching journey for the past 6 months — not just how much relevant topics covered but also how inspiring support and positive vibes from the fellow cohorts. 
 
 📚  **Learning topics** :
 
@@ -30,6 +34,9 @@ The program was developed by the Product Tonic Community leaders for the communi
 
 
 Reference: [PTL Notion](https://www.notion.so/Product-Tonic-Lab-6d79313ebca7440aacd49fb9258dc299)
+
+{% include image-full.html file="/2021/04/ptl-cohort.png" height="900px"%}
+
 
 {% comment %} 
 ## 👉 Why Product Tonic Lab?
