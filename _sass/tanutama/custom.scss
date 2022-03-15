@@ -274,7 +274,7 @@ ul.note-list {
 
 h2.project__title,
 h2.note__title {
-  font-size: 2.5rem;
+  font-size: 2rem;
   line-height: 2.5rem;
   margin-top: 0;
 }
@@ -343,7 +343,7 @@ Notes Paginator
 }
 
 .paginator-list {
-  margin-top: 2rem;
+  padding-top: 2rem;
 }
 
 .paginator-current {
@@ -494,6 +494,13 @@ SEARCH
     }
  }
  
+ /* -------------------------------- 
+
+YOUTUBE EMBED VIDEO
+-------------------------------- */
+.video-container { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
 /* -------------------------------- 
 
 // Import partials.
