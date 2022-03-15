@@ -69,9 +69,16 @@ You can also [search](/search) the site or view chronological [external referenc
    font-family:"Roboto", sans-serif;
 }
 .project__item .project__title{
-   font-weight:600
+   font-weight:600;
+   line-height:1.5rem;
+   margin-bottom:0.8rem;
 }
 .project__item .project__date{
    font-size:1rem;
+}
+@media screen and (max-width: 49.99em) {
+   .project__item .project__title, .project__item .project__date{
+   font-size:1rem;
+   }
 }
 </style>
