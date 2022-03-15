@@ -20,8 +20,10 @@ Sabre provide aspiring developers access into their API portfolio and software d
 
 Inspired by typical Web-based Overseas Travel Application process, I proposed collaborative chatbot based solution to automate hotel and flight search, application and coordinate manual approval process and could work across different input channels. 
 
- 
-<iframe width="740" height="400" src="https://www.youtube.com/embed/V60lRWqY3Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container" style="margin:2rem 0">
+<iframe  src="https://www.youtube.com/embed/V60lRWqY3Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
  
 
 

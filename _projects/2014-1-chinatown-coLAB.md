@@ -46,9 +46,12 @@ In addition, our app allows visitor to leave feedback (or token of appreciation)
 {% include image-full.html file="/2014/1/chinatown-5.jpg" alt="Award" height="500px"  %}
 Our application was awarded "2nd Runner Up" prize. 
 
+<div class="video-container" style="margin:2rem 0">
+<iframe src="https://www.youtube-nocookie.com/embed/V_8ZhDB4aQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-container" style="margin:2rem 0">
+<iframe  src="https://www.youtube.com/embed/SP6iHWacw4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<iframe width="740" height="400" src="https://www.youtube-nocookie.com/embed/V_8ZhDB4aQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="740" height="400"  src="https://www.youtube.com/embed/SP6iHWacw4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>Presentation and Highlight Reel from <a href="http://www.upsingapore.com/events/chinatown-colab/">UP Singapore</a>.</p>

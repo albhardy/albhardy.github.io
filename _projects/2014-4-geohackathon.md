@@ -33,6 +33,8 @@ Our inspiration comes from understanding the need to address FFTH operational su
 
 Besides highlighting location of key resources, our geospatial visualisation is also able to estimate outer edge of all possible travel routes from a start point to a given distance or time.
 
-<iframe width="740" height="400" src="https://www.youtube.com/embed/jtP16Vhqpck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container" style="margin:2rem 0">
+<iframe  src="https://www.youtube.com/embed/jtP16Vhqpck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <!-- Use geospatial technologies to coordinate and optimise VWO operational address urban systems, demographic and environmental challenges -->

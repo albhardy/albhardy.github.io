@@ -4,12 +4,14 @@ title: 3Gen Trip Planner
 image_path: 
 orderid: 31
 date: 2022-01-05
-blurb: 'Simplify Trip Planning and Collaboration for Family'
+blurb: 'Simplify Trip Planning and Collaboration for Generations of Family'
 ---
-3Gen Trip Planner will help change the difficult from various travel needs.  Make it easy to organize a trip together with a smart travel plan that is both comfortable … and knows your heart the most
+We design and develop 3Gen Trip Planner to help manage difficult collaboration with various travel needs & preferences. Our aim is to  make it easy to organize a trip with a smart travel plan that is both comfortable … and knows your heart the most
 <!--more-->
 
-<iframe width="740" height="400" src="https://www.youtube.com/embed/L0wcaOtGZVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container" style="margin:2rem 0">
+<iframe  src="https://www.youtube-nocookie.com/embed/L0wcaOtGZVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 {% comment %}
 {% include image-full.html file="/2022/01/3gen-1.jpg"  alt="" caption=""%}
