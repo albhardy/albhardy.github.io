@@ -1,4 +1,4 @@
-# 2021
+# 2023
 
 ![theme preview](/screenshot.png)
 
@@ -8,6 +8,7 @@ To set up your environment to develop this theme, run `script/bootstrap`.
 
 To test your theme, run `script/server` (or `bundle exec jekyll serve -l -o`) and open your browser at `http://localhost:4000`. 
 
+To publish, run `grunt build` then `grunt deploy`
 
 ## Deployment
 

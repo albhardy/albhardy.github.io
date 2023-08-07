@@ -4,10 +4,26 @@ title: References
 permalink: /ref/
 ---
 
-This section lists external readings, resources, or references from others that mentioned about projects or events I participated in. 
+External readings, resources, or project references of interests. 
+
+# 2023
+- Project Launch: [Kajima launches The GEAR](https://www.thegear.sg/post/kajima-launches-the-gear)
+- Participated in NEC Metaverse Global Fes, Visit by [Dr Soichi Noguchi](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_astronaut-ai-ai-activity-7079068964814794752-U7CR), [NEC ASEAN Business Development Bootcamp](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_smartcity-smarttownship-urbanization-activity-7044516675089551360-CeEl) and [Workshop](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_sustainable-activity-7045243022111887360-iM-E)
+- Attended [SMU Advanced Certificate in Web 3.0](https://academy.smu.edu.sg/advanced-certificate-web-30-8446) on [Metaverse](https://www.linkedin.com/posts/techfin-global_understanding-the-metaverse-and-web-3o-activity-7074188634307903488-umD9), [DAO](https://www.linkedin.com/posts/techfin-global_understanding-nfts-and-dao-activity-7079262075016921089-Cpe1), [Web 3.0](https://www.linkedin.com/posts/techfin-global_the-deal-with-blockchain-and-decentralised-activity-7091960742949650432-8-to), dApps, and [DeFi](https://www.linkedin.com/posts/techfin-global_advanced-certificate-in-web-30-module-5-activity-7069115222212415489-Z3QP)
+- Volunteered in [CWSS & BOS Design Workshop](https://www.linkedin.com/posts/chooake_we-concluded-the-5-session-design-workshop-activity-7066735404590268416-ij4o) 
+
+# 2022
+- Included in [NEC DX Innovator 100](https://jpn.nec.com/dx/special/innovators100/) and [NEC Innovation Day Briefing](https://www.nec.com/en/global/ir/pdf/library/221130/221130_01.pdf)
+- Participated in inaugural [NEC ASEAN Business Development and Strategy](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_nec-asean-businessdevelopment-activity-6976376581892038657-a2DL), NEC Open House, NLS ["See The Future, See Your Surroundings"](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_nec-orchestratingabrighterworld-research-activity-6955854368050991104-sDps) internal sharing and [NEC 123rd Birthday Video](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_happynec123-nec-activity-6953539884364025856-slO_)
+
+
+
+# 2021
+- Featured Project during  [Agile Japan 2021](https://2021.agilejapan.jp/timetable_1117/)
+- Launched Virtual Open House Platform
 
 # 2019
-- NEC: [Ministry of Movement and NEC to collaborate on future of urban mobility](https://www.nec.com/en/press/201910/global_20191016_02.html) 
+- Featured in NEC News Release: [Ministry of Movement and NEC to collaborate on future of urban mobility](https://www.nec.com/en/press/201910/global_20191016_02.html) 
 
 # 2017
 
