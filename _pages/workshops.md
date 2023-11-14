@@ -4,7 +4,7 @@ title: Workshops
 permalink: /workshops/
 ---
 <!-- ## Inspirational workshops -->
-These are list of courses and workshops that I found helpful for both professional and personal development.
+Through continuous learning and exploration, I've expanded my knowledge and skills, enabling me to tackle new challenges and pursue personal and professional growth. The courses and workshops I've participated in have been instrumental in this process of self-discovery, providing valuable insights and practical applications that have enriched my life in many ways.
 
 {% include about-events-list.html %}
 
