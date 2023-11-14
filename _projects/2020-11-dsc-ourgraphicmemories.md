@@ -4,7 +4,7 @@ title: Our Graphic Memories of COVID-19
 image_path: 
 orderid: 29
 date: 2020-11-30
-blurb: 'Contribute a body of artwork that will serve as Singapore’s collective COVID-19 memory.'
+blurb: 'Contribute artwork to serve as Singapore’s collective COVID-19 memory.'
 ---
 {% include image-full.html file="/2020/11/iamaccb.png" alt="I Am CCB" height="450px" caption=""%}
 

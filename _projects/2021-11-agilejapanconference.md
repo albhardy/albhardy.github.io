@@ -4,7 +4,7 @@ title: Agile Japan 2021 Conference
 image_path: 
 orderid: 30
 date: 2021-11-17
-blurb: 'Practice Remote Agile Collaboration Process for New Business Creation'
+blurb: 'Adapt Remote Collaboration Process for New Business Creation'
 ---
 This is an example of creating business from the starting point of social issues by practicing agile values in order to realize a sustainable society based on NEC social values vision of safety, security, fairness, and efficiency.
 

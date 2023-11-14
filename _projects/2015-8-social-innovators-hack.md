@@ -4,7 +4,7 @@ title: Social Innovators Hack!
 image_path: 
 orderid: 15
 date: 2015-11-14
-blurb: 'Help foster stronger collaborations and communications for Social Organisations through interactive SMS based services'
+blurb: 'Foster stronger collaborations and communications for Social Organisations through interactive SMS based services'
 ---
 {% include image-full.html file="/2015/8/sih-2.jpg" alt="Group Photo" height="400px" type="full" %}
 <p class='sublead'>Social Innovators Hack! Is en event organised by Social Innovation Park (SIP), UP Singapore and Hewlett Packard Enterprise (HPE) to address three main challenges for SEs in Singapore: Collaboration (Enable Social Innovators to pool and share ideas and resources), Commerce (Match SEs with corporate customers) and Communication (Connect Social Organisations with their volunteers and retain them).</p>

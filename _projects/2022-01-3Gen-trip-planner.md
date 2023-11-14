@@ -4,7 +4,7 @@ title: 3Gen Trip Planner
 image_path: 
 orderid: 31
 date: 2022-01-05
-blurb: 'Simplify Trip Planning and Collaboration for Generations of Family'
+blurb: 'Simplify Planning, Collaboration and Coordination for Multi-Generation Family Trip'
 ---
 We design and develop 3Gen Trip Planner to help manage difficult collaboration with various travel needs & preferences. Our aim is to  make it easy to organize a trip with a smart travel plan that is both comfortable … and knows your heart the most
 <!--more-->
