@@ -2,7 +2,7 @@ title: + Albert
 author: Albert Hardy
 email: albert@tanutama.com
 description: > # this means to ignore newlines until "baseurl:"
-  Social Value Design Practitioner. Crafting ideas and possibilities to make positive societal impact. 
+  Intentional Design for Meaningful Impact: Navigating Toward a Sustainable and Equitable Future. 
 
 url: tanutama.com
 google_analytics: UA-124394-1
@@ -46,7 +46,7 @@ minima:
 # show_excerpts: false # set to true to show excerpts on the homepage
 
 name: Albert
-job: design practitioner
+job: Designer
 # location: Singapore
 # languages: HTML, CSS and Javascript
 # twitter_username: alberthardy
