@@ -8,10 +8,9 @@
             <div class="jumbotron">
                 <div class="container">
                     <div class="intro">
-                        <p class="intro__pre">Hello!</p>
-                        <p class="intro__main">I'm
-                            <span>{{ site.name }}</span> - a Social Value Design Practitioner.</p>
-                            <p class="intro__post">I make ideas for societal impacts through human centered design, technology and insights</p>
+                        <p class="intro__pre">Hello! I'm <span>{{ site.name }}, a Design Generalist</span> </p>
+                        <p class="intro__main">#IntentionalDesign4Impact</p>
+                            <p class="intro__post">Guided by vision for a more equitable and sustainable future, I uncover hidden needs, discern emerging innovations, and transform ideas to make meaningful impact. </p>
                             <!-- who synthesizes innovative ideas with pragmatic User Experience, technology feasibility and business model viability toward larger societal impacts -->
                         <!-- <p class="intro__post">{{ site.location }} is where I am found.</p> -->
                     </div>
@@ -22,7 +21,7 @@
         <div class="wrapper">
             <div class="container">
                 {% include featured-projects-list.html %}
-                {% include featured-notes-list.html %}
+                <div style="display:none">{% include featured-notes-list.html %} </div>
             </div>
         </div>
         <!--End of Wrapper -->
