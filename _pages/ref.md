@@ -7,28 +7,44 @@ permalink: /ref/
 External readings, resources, or project references of interests. 
 
 # 2023
-- Project Launch: [Kajima launches The GEAR](https://www.thegear.sg/post/kajima-launches-the-gear)
-- Participated in NEC Metaverse Global Fes, Visit by [Dr Soichi Noguchi](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_astronaut-ai-ai-activity-7079068964814794752-U7CR), [NEC ASEAN Business Development Bootcamp](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_smartcity-smarttownship-urbanization-activity-7044516675089551360-CeEl) and [Workshop](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_sustainable-activity-7045243022111887360-iM-E)
-- Attended [SMU Advanced Certificate in Web 3.0](https://academy.smu.edu.sg/advanced-certificate-web-30-8446) on [Metaverse](https://www.linkedin.com/posts/techfin-global_understanding-the-metaverse-and-web-3o-activity-7074188634307903488-umD9), [DAO](https://www.linkedin.com/posts/techfin-global_understanding-nfts-and-dao-activity-7079262075016921089-Cpe1), [Web 3.0](https://www.linkedin.com/posts/techfin-global_the-deal-with-blockchain-and-decentralised-activity-7091960742949650432-8-to), dApps, and [DeFi](https://www.linkedin.com/posts/techfin-global_advanced-certificate-in-web-30-module-5-activity-7069115222212415489-Z3QP)
-- Volunteered in [CWSS & BOS Design Workshop](https://www.linkedin.com/posts/chooake_we-concluded-the-5-session-design-workshop-activity-7066735404590268416-ij4o) 
+- LKYSPP Executive Education: [Futures for Public Policy wrap up](https://www.linkedin.com/posts/lkysppee_weve-wrapped-up-the-third-run-of-our-futures-ugcPost-7112728517309562880-nT88)
+- NEC LinkedIn: [NUS School of Computing - Generative AI Bootcamp](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_generativeai-generativeai-ai-ugcPost-7119615516196945920-aWVB),[ NLS 10th Anniversary](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_nec-laboratories-singapore-celebrates-10th-activity-7110940807909572610-C7xq), [NEC Visionary Week](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_llm-dx-dx-activity-7108019045697798145-70Wa),  [Kajima - The GEAR Launch](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_technologypartner-activity-7094514573591941120-Uc_e), [Visit by Astronaut Soichi Noguchi](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_astronaut-ai-ai-activity-7079068964814794752-U7CR), [NEC ASEAN Business Development Bootcamp](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_smartcity-smarttownship-urbanization-activity-7044516675089551360-CeEl) and [Workshop](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_sustainable-activity-7045243022111887360-iM-E)
+- SMU Academy & TechFin: [Advanced Certificate in Web 3.0](https://academy.smu.edu.sg/advanced-certificate-web-30-8446) - [Metaverse](https://www.linkedin.com/posts/techfin-global_understanding-the-metaverse-and-web-3o-activity-7074188634307903488-umD9), [DAO](https://www.linkedin.com/posts/techfin-global_understanding-nfts-and-dao-activity-7079262075016921089-Cpe1), [Web 3.0](https://www.linkedin.com/posts/techfin-global_the-deal-with-blockchain-and-decentralised-activity-7091960742949650432-8-to), dApps, and [DeFi](https://www.linkedin.com/posts/techfin-global_advanced-certificate-in-web-30-module-5-activity-7069115222212415489-Z3QP)
+- Bank of Singapore LinkedIn: [CWSS & Bank of Singapore Design Workshop](https://www.linkedin.com/posts/chooake_we-concluded-the-5-session-design-workshop-activity-7066735404590268416-ij4o) 
+- Product Tonic Lab Unconference 2023: [Journey in Co-Designing an Open Space for Good](https://www.linkedin.com/pulse/journey-co-designing-open-space-good-j%25C3%25A9r%25C3%25B4me-bourgeon-l0klc/)
+- Level C: [Masterclass #1 Liquid Death Edition](https://www.eventbrite.com/e/masterclass-1-a-branding-workshop-by-level-c-the-liquid-death-edition-tickets-443968751487) with wrap up posts by [Level C](https://www.linkedin.com/posts/levelcorg_levelup-brand-branding-activity-7024797610192384000-tnM4), [Dorothy](https://www.linkedin.com/posts/dorothyfulop_is-that-really-stephen-nilsen-from-liquid-activity-7024700299856556033-5kPX), [Angela](https://www.linkedin.com/posts/angelamerzib_branding-business-strategy-activity-7024829877002403840-7D3O), [Zachy](https://www.linkedin.com/posts/zachyperez_branding-business-strategy-activity-7024856023073001472-So0I), [Nicole](https://www.linkedin.com/posts/nicoleandrewanonsen_warmabrup-fomoabrisabrreal-brand-activity-7021545825042395136-2NYi), [Elise](https://www.linkedin.com/posts/elise-kaiser-56457224_levelc-disrupt2023-branding-activity-7024776023833505794-nvsK), [Teila](https://www.linkedin.com/posts/teilabaxter_levelc-disrupt2023-branding-activity-7024793364856283137-sUfL), [Kevin](https://www.linkedin.com/posts/kevinarndtstl_7abrofabrthose-levelup-brand-activity-7024781668653637632-57XL) and [Andy](https://www.linkedin.com/posts/the-andy-starr_7abrofabrthose-levelup-brand-activity-7024593477950722048-Su_P)
+- Project Launch: [Kajima launches The GEAR](https://www.thegear.sg/post/kajima-launches-the-gear), [Press Release 1](https://www.kajima.co.jp/english/news/info/pdf/20230807_1.pdf) and [Press Release 2](https://www.kajima.co.jp/english/news/info/pdf/20230807_2.pdf)
+- Delivered Project IMMERSE and BIZMATCH Trusted Metaverse - Patent Filed
 
 # 2022
-- Included in [NEC DX Innovator 100](https://jpn.nec.com/dx/special/innovators100/) and [NEC Innovation Day Briefing](https://www.nec.com/en/global/ir/pdf/library/221130/221130_01.pdf)
-- Participated in inaugural [NEC ASEAN Business Development and Strategy](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_nec-asean-businessdevelopment-activity-6976376581892038657-a2DL), NEC Open House, NLS ["See The Future, See Your Surroundings"](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_nec-orchestratingabrighterworld-research-activity-6955854368050991104-sDps) internal sharing and [NEC 123rd Birthday Video](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_happynec123-nec-activity-6953539884364025856-slO_)
-
-
+- Included in [NEC DX Innovator 100](https://jpn.nec.com/dx/special/innovators100/), part of [NEC Innovation Day Briefing](https://www.nec.com/en/global/ir/pdf/library/221130/221130_01.pdf) highlight
+- NEC LinkedIn: Participate in inaugural [NEC ASEAN Business Development and Strategy](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_nec-asean-businessdevelopment-activity-6976376581892038657-a2DL), NLS Workshop ["See The Future, See Your Surroundings"](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_nec-orchestratingabrighterworld-research-activity-6955854368050991104-sDps) and [NEC 123<sup>rd</sup> Birthday Video](https://www.linkedin.com/posts/nec-asia-pacific-pte-ltd_happynec123-nec-activity-6953539884364025856-slO_)
+- NEC YouTube:  [NEC Way Day](https://www.youtube.com/watch?v=eU1i7bhhfMI), [DX 100 Innovators](https://www.youtube.com/watch?v=PlJPisr10Xc) 
+- Delivered Project [KIZUNA](https://www.instagram.com/kizunatrip/) and MIRU
 
 # 2021
-- Featured Project during  [Agile Japan 2021](https://2021.agilejapan.jp/timetable_1117/)
-- Launched Virtual Open House Platform
+- Product Tonic Lab : [Opening Retreat](https://www.linkedin.com/feed/update/urn:li:activity:6789550891549777920?utm_source=share&utm_medium=member_desktop), [Meetup #7](https://www.linkedin.com/feed/update/urn:li:activity:6834131877058744321)
+- Featured Project during  [Agile Japan 2021](https://2021.agilejapan.jp/timetable_1117/) - [Slides](https://drive.google.com/file/d/10AyT7sglhhnv9NfgjMCl_UCtJFj2G7Et/view?usp=drive_link)
+- Lead IPSOS "Integrated MaaS" Market Research Project
+- Launched NEC Virtual Open House Platform; Delivered Project HINDSIGHT
+
+# 2020
+- Participated in [NHB Open Innovation Challenge](https://www.facebook.com/photo/?fbid=2977730752309629&set=a.147007502048649) which was eventually awarded to [Trakomatic](https://www.straitstimes.com/tech/tech-news/virtual-museum-gallerys-new-ai-powered-tour-guide-can-answer-visitors-questions)
+- Filed “Method and Apparatus for adaptively optimising a limited resource” 
+- Delivered NEOCENTER 3D 
 
 # 2019
-- Featured in NEC News Release: [Ministry of Movement and NEC to collaborate on future of urban mobility](https://www.nec.com/en/press/201910/global_20191016_02.html) 
+- Featured Project in NEC News Release: [Ministry of Movement and NEC to collaborate on future of urban mobility](https://www.nec.com/en/press/201910/global_20191016_02.html)
+- Delivered [Project ALLY](https://www.youtube.com/watch?v=13aN8tgRjkQ) - [YouTube](https://www.youtube.com/watch?v=cF_0ZFcLMr8)
+
+# 2018
+- Filed "An Apparatus and A Method for Adaptively Managing Event Data in A Control Room"
+- Delivered Traffic Monitoring Command Center and Commuter Information System Project
 
 # 2017
-
 - Straits Times: [Singapore taps NEC's facial recognition technology to fight crime](http://www.straitstimes.com/asia/east-asia/spore-taps-necs-facial-recognition-technology-to-fight-crime) highlights Smart Command Centre
 - NEC ACE launch is mentioned by Straits Times: [NEC opens first 'living lab' in Singapore; to hire 50 more researchers, engineers](http://www.straitstimes.com/business/companies-markets/nec-opens-first-living-lab-in-singapore-to-hire-50-more-researchers) and HWZone: [NEC opens first Advanced Centre for Experimentation (ACE) in Singapore](http://www.hardwarezone.com.sg/tech-news-nec-opens-first-advanced-centre-experimentation-ace-singapore)
+
 
 ###  SIA Appchallenge 
 
@@ -63,7 +79,7 @@ External readings, resources, or project references of interests.
 - Event Announcement: [Hacking Medicine Hacks Robotics in Singapore!](http://hackingmedicine.mit.edu/hacking-robotics-singapore/)
 
 # 2016
-
+- Delivered Public Safety & Transport Smart Command Center - [YouTube](https://www.youtube.com/watch?v=T7EA2onlv8Y)
 - Report by JICA on [Collaboration Program with the Private Sector for Disseminating Japanese Technology for Ho Chi Minh City Public Transport Bus ICT System in Vietnam](http://open_jicareport.jica.go.jp/pdf/12265963.pdf)
 
 ### Sabre Destination Hack Singapore 
