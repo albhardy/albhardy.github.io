@@ -35,6 +35,7 @@ External readings, resources, or project references of interests.
 
 # 2019
 - Featured Project in NEC News Release: [Ministry of Movement and NEC to collaborate on future of urban mobility](https://www.nec.com/en/press/201910/global_20191016_02.html)
+- Submitted [ATRANS Paper](https://www.atransociety.com/resources/pdf/2019/Proceeding-for-QRCode.pdf)
 - Delivered [Project ALLY](https://www.youtube.com/watch?v=13aN8tgRjkQ) - [YouTube](https://www.youtube.com/watch?v=cF_0ZFcLMr8)
 
 # 2018
