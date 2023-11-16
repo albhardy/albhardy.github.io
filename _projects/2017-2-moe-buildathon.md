@@ -4,7 +4,7 @@ title: MOE Learning Buildathon
 image_path: 
 orderid: 21
 date: 2017-03-25
-blurb: 'Co-create social gamification cards to promote the joy of reading in school'
+blurb: 'Design social gamification cards to promote the joy of reading in school'
 ---
 <p class='sublead'>The first-ever MOE Learning Buildathon brought educators and the Singapore community for best ideas to promote the joy of learning. Organized by GovTech and the Ministry of Education, this event sought to re-imagine and co-create learning resources that would enable learning that is fun and fulfilling in Language, STEM, and the Humanities &amp; Arts.</p>
 <!--more-->

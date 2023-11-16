@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Conversations & Notes from 4th Product Tonic Unconference 2021"
+title: "Notes from Product Tonic Unconference 2021"
 category: workshop
 excerpt_separator: <!--more-->
 ---
