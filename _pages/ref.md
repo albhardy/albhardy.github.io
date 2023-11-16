@@ -210,7 +210,11 @@ Involved in Trade and Logistics projects, which include early stage of TradeXcha
 
 - [TradeXchange to serve 8,000 users by 2007](http://www.sgs.com/en/news/2006/02/tradexchange-to-serve-8000-users-by-2007)
 - [TradeXchange project summary](https://www.mof.gov.sg/docs/default-source/policies/procurementprocess/trade-xchange-project-summary.pdf)
-- [CrimsonLogic Project Book](http://www.crimsonlogic.com/Documents/pdf/resourceLibrary/brochures/corporate/ProjBooklet-2016.pdf)
+- [TradeXchange Presentation](https://www.carecprogram.org/uploads/Day3-TradeXchange-SW-Environment.pdf) and [CrimsonLogic 2016 Project Booklet](http://www.crimsonlogic.com/Documents/pdf/resourceLibrary/brochures/corporate/ProjBooklet-2016.pdf)
+
+Other projects:
+
+- TrustSg : [NTC 2001 Press Release](https://www.imda.gov.sg/-/media/imda/files/inner/archive/news-and-events/news_and_events_level2/trustsgpresspresentation.pdf/), [IDA 2002 Press Release](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/archived/ida/press-releases/2002/20061120095852), [Annual Report](https://www.imda.gov.sg/-/media/imda/files/about/resources/ida-ar-0506.pdf) 
 
 # 2001
 
